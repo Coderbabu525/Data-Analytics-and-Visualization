@@ -1,0 +1,23 @@
+------------------- User Manual --------------------
+
+
+* Keep the datasets and the codes in same folder,
+  otherwise specify the location of the data in python code.
+* For the codes in level 4, Keras is needed to be installed
+* Other codes don't need any special library to install,
+  still, if any package is asked during running the codes, please
+  try to install it and then run the code.
+
+
+
+Note: for level 4, running on google collab was giving better results,
+The "Level 4 Collab.ipynb" contains those codes. What is need to do just upload the
+dataset along with the code in the google drive and retrieve its id to 
+replace the existing file id on the code. Validation is needed to access drive.
+
+
+Follow the comments on the codes.
+
+
+
+--------------------- THANK YOU -----------------------
